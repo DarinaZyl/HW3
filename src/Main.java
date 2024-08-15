@@ -17,5 +17,6 @@ public class Main {
         System.out.println("change feature 1");
         System.out.println("change feature 1.1");
         System.out.println("change feature 1.2");
+        System.out.println("change release finish");
     }
 }
