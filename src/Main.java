@@ -11,5 +11,6 @@ public class Main {
         System.out.println("add sout hotfixes");
         System.out.println("add sout release");
         System.out.println("change feature 2.3");
+        System.out.println("change feature 2.4");
     }
 }
