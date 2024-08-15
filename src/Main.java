@@ -6,5 +6,6 @@ public class Main {
         System.out.println("change develop 1");
         System.out.println("change develop 2");
         System.out.println("change develop 3");
+        System.out.println("add sout hotfixes");
     }
 }
